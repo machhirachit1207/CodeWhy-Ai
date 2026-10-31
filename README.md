@@ -1,4 +1,3 @@
-
 # CodeWhy AI
 
 CodeWhy AI answers "why does this code exist?" from repository evidence: commits, pull requests, issues, incidents, design documents, and discussions. Every claim cites the records it relies on. When the evidence is missing, the app says so instead of guessing. It also shows when a decision was later replaced.
